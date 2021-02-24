@@ -2,7 +2,7 @@
 # Logica Fuzzy
 ## prof. Gaetano Vitale
 
-Durante il corso è stata affrontata la tematica "Logica", partendo dai cenni storici, fino ad arrivare alle logiche polivalenti.
+Durante il corso è stata affrontata la tematica **Logica**, partendo dai cenni storici, fino ad arrivare alle logiche polivalenti.
 Il corso si è focalizzato su due specifiche tipologie di logica:
 >> - Logica di Boole
 >> - Logica di Lukasiewicz
